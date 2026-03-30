@@ -14,7 +14,7 @@ Runs on a schedule (GitHub Actions) with **no manual input**: pulls **Jira** (yo
 
 | Secret | Purpose |
 | --- | --- |
-| `ATLASSIAN_EMAIL` | Your Atlassian login email |
+| `ATLASSIAN_EMAIL` | alec.botsford@humansecurity.com |
 | `ATLASSIAN_API_TOKEN` | From [Atlassian API tokens](https://id.atlassian.com/manage-profile/security/api-tokens) |
 | `ATLASSIAN_SITE` | `perimeterx.atlassian.net` (no `https://`) |
 | `CONFLUENCE_PARENT_PAGE_ID` | Playbook page id: `6241746949` (child pages appear under it) |
